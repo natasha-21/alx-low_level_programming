@@ -9,6 +9,7 @@
  *Positive anything is better than negative nothing
  *natasha sonjica
  * task zero
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
