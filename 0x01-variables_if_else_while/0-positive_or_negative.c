@@ -3,12 +3,10 @@
 #include <time.h>
 /* more headers goes there */
 
-/* betty style doc for function main goes there */
-/*
- *main - assigns a random number to int n
- *Positive anything is better than negative nothing
- *natasha sonjica
- * task zero
+/* betty style doc for function main goes there*/
+/**
+ * main - Entry point
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
