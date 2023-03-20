@@ -4,15 +4,16 @@
  *
  * Return: Always 0 (Success)
  */
-int main()
+int main(void)
 {
 	char ch;
+
 	while (ch <= 'z')
 	{
 		putchar(ch);
 		ch = ch + 1;
 	}
-	putchar('\n');
+	putchar ('\n');
 	return(0);
 }
 
