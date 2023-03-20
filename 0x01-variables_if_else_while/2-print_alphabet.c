@@ -7,9 +7,10 @@
 int main()
 {
 	char ch;
-	for (ch >= 'a'; ch <= 'z'; ch++)
+	while (ch <= 'z')
 	{
 		putchar(ch);
+		ch = ch + 1;
 	}
 	putchar('\n');
 	return(0);
