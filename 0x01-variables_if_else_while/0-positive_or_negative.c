@@ -5,8 +5,9 @@
 
 /* betty style doc for function main goes there */
 /*
+ *main - assigns a random number to int n
  *Positive anything is better than negative nothing
- *by natasha sonjica
+ *natasha sonjica
  * task zero
  */
 int main(void)
